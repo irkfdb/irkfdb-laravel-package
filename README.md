@@ -1,4 +1,5 @@
-### IRKFDB Laravel Package [![Build Status](https://travis-ci.org/irkfdb/irkfdb-laravel-package.svg?branch=master)
+### IRKFDB Laravel Package [![Build Status](https://travis-ci.org/irkfdb/irkfdb-laravel-package.svg?branch=master)](https://travis-ci.org/irkfdb/irkfdb-laravel-package)
+
 
 It is a wrapper package made on top of [irkfdb-php-client](https://github.com/irkfdb/irkfdb-php-client) for laravel.
 
