@@ -1,5 +1,5 @@
 {
-    "name": "irkfdb/laravel-irkfdb",
+    "name": "irkfdb/irkfdb-laravel-package",
     "description": "A wrapper over irkfdb-php-client for laravel",
     "type": "library",
     "require": {
