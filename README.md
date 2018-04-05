@@ -38,3 +38,9 @@ class TestController {
     }
 }
 ```
+
+#### Test Cases
+You can run the test cases by running the following command
+```
+./vendor/bin/phpunit --configuration phpunit.xml
+```
