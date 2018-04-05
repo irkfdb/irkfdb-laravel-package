@@ -7,7 +7,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Irkfdb\\IrkfdbLaravel\\": "src/"
+            "Irkfdb\\IrkfdbLaravel\\": "src/",
+            "Irkfdb\\IrkfdbLaravel\\Test\\": "tests/"
         }
     },
     "extra": {
@@ -27,5 +28,9 @@
             "email": "swapnilsarwe@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "7.0.x-dev",
+        "orchestra/testbench": "^3.5@dev"
+    }
 }

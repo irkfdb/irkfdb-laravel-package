@@ -23,9 +23,14 @@ class IrkfdbLaravelService
         return $this->irkfdbClient->getCategories();
     }
 
+    public function fromCategories($categories)
+    {
+        return $this->irkfdbClient->fromCategories($categories);
+    }
+
     public function getRandomFact()
     {
         return $this->irkfdbClient->getRandomFact();
     }
-    
+
 }
